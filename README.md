@@ -34,12 +34,6 @@ To deepen the analysis, I integrated **spreadsheet modeling** and **Power BI das
 - **States with high competitor activity** (e.g., CA, TX, NY) show a **15–20% higher churn rate** among users without long-term contracts.
 - **Unlimited data plan users** over age 45 have the **lowest churn rates**, especially in states with fewer competitor promotions.
 
-### Power BI Dashboard Snippet:
-
-> *(You can insert an image of your Power BI dashboard here)*  
-> Example:  
-> ![Power BI Dashboard](images/powerbi-churn-dashboard.png)
-
 ### Spreadsheet Model:
 
 - Used **Excel** to build a **churn probability matrix** based on age group and competitor offer presence.
